@@ -1,3 +1,3 @@
 # Rajesh-Repo
 
-This is my Git Hub Learning tutorial.
+This is my Git Hub Learning.
